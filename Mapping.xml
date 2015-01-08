@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MappingExample>
+  <level1>
+    <level2>text</level2>
+    <level2>3:10:33 PM</level2>
+  </level1>
+</MappingExample>
